@@ -1,0 +1,22 @@
+set backspace=indent,eol,start
+set number
+" proper tab/indentation behavior
+set shiftwidth=4 smarttab
+set expandtab
+set tabstop=8 softtabstop=0
+set autoindent
+
+syntax on
+set hlsearch
+hi Search ctermbg=Grey
+hi Search ctermfg=Red
+
+" disable annoying bell sound
+set visualbell
+set t_vb=
+
+" persistent undo
+set undodir=~/.vim/undodir  " Where to save undo files
+set undofile
+set undolevels=1000         " How many undos
+set undoreload=10000        " number of lines to save for undo

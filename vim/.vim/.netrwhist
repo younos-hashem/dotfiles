@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/younos/McDaniel_Group_Work/link-atom/titania/cluster2_neutral/01_nowater'
+let g:netrw_dirhist_0='/home/younos/McDaniel_Group_Work/link-atom/pydft-qmmm/tests/methylamine/energy_conservation/optimization'
+let g:netrw_dirhist_9='/home/younos/McDaniel_Group_Work/link-atom/readme'
+let g:netrw_dirhist_8='/home/younos/McDaniel_Group_Work/link-atom/titania/cluster1_full_embedding/02_water_move'
+let g:netrw_dirhist_7='/home/younos/McDaniel_Group_Work/link-atom/silica/_cluster_model/bare_cluster'
+let g:netrw_dirhist_6='/home/younos/McDaniel_Group_Work/link-atom/titania/cluster1_full_embedding/02_water_move'
+let g:netrw_dirhist_5='/home/younos/McDaniel_Group_Work/link-atom/titania/cluster1_shared_cutting/01_nowater'
+let g:netrw_dirhist_4='/home/younos/miniconda3/envs/pme/etc/conda/activate.d'
+let g:netrw_dirhist_3='/home/younos/McDaniel_Group_Work/link-atom/pydft-qmmm/example/case_0/output_api'
+let g:netrw_dirhist_2='/home/younos/McDaniel_Group_Work/link-atom/pydft-qmmm/pydft_qmmm/plugins/link'
